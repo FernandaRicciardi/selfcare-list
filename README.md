@@ -6,7 +6,7 @@
 
 🔨 It's built from scratch. 🔨
 
-I used the 'localStorage' to save the data in the web browser so that you won't lose your list when you close the window. 📝
+I used the 'localStorage' to save the data in the web browser so that you won't lose your list if you close the window. 📝
 
 You can mark an item as done/undone and delete it as well. 🛁✔️ 🧖‍✔️ 🗑️
 
