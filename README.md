@@ -1,7 +1,6 @@
 # My Self Care List
 
-
-**My Self Care List** is my first React App. 🙂
+This is my first React App! 🙂
 
 🔨 It's built from scratch. 🔨
 
