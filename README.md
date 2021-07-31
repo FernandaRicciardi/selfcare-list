@@ -1,6 +1,6 @@
 # My Self Care List
 
-🖱️ [Self Care List](https://fernandaricciardi.github.io/selfcare-list/)
+🖱️ [My Self Care List](https://fernandaricciardi.github.io/selfcare-list/)
 
 **My Self Care List** is my first React App. 🙂
 
